@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<TfrxReport Version="5.1.5" DotMatrixReport="True" IniFile="\Software\Fast Reports" PreviewOptions.Buttons="4095" PreviewOptions.Zoom="1" PrintOptions.Printer="Default" PrintOptions.PrintOnSheet="0" ReportOptions.CreateDate="43656,4764651736" ReportOptions.Description.Text="" ReportOptions.LastChange="43656,4962323843" ScriptLanguage="PascalScript" ScriptText.Text="begin&#13;&#10;&#13;&#10;end.">
+  <TfrxDataPage Name="Data" Height="1000" Left="0" Top="0" Width="1000"/>
+  <TfrxDMPPage Name="Page1" PaperWidth="507,999671916879" PaperHeight="323,84979084701" PaperSize="256" LeftMargin="2,53999835958439" RightMargin="2,53999835958439" TopMargin="4,49791376176403" BottomMargin="4,49791376176403" ColumnWidth="0" ColumnPositions.Text="" HGuides.Text="" VGuides.Text="" FontStyle="0">
+    <TfrxDMPMemoView Name="DMPMemo1" Left="0" Top="0" Width="1891,2" Height="17" TruncOutboundText="False" Text="--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------"/>
+    <TfrxDMPMemoView Name="DMPMemo2" Left="0" Top="17" Width="1891,2" Height="17" HAlign="haCenter" TruncOutboundText="False" Text="Заголовок"/>
+    <TfrxDMPMemoView Name="DMPMemo3" Left="0" Top="34" Width="220,8" Height="170" TruncOutboundText="False" Text="┌─┬─┐&#13;&#10;│ │ │&#13;&#10;├─┼─┤&#13;&#10;│ │ │&#13;&#10;└─┴─┘"/>
+  </TfrxDMPPage>
+</TfrxReport>
